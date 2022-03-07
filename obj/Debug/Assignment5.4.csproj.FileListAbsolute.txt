@@ -1,0 +1,5 @@
+C:\Users\yang\Desktop\PCAD5\Projects\Week5\Assignment5.4\bin\Debug\Assignment5.4.pdb
+C:\Users\yang\Desktop\PCAD5\Projects\Week5\Assignment5.4\obj\Debug\Assignment5.4.csproj.CoreCompileInputs.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week5\Assignment5.4\obj\Debug\Assignment5.4.dll
+C:\Users\yang\Desktop\PCAD5\Projects\Week5\Assignment5.4\obj\Debug\Assignment5.4.pdb
+C:\Users\yang\Desktop\PCAD5\Projects\Week5\Assignment5.4\obj\Debug\Assignment5.4.csproj.CopyComplete

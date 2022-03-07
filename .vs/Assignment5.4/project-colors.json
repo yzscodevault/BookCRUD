@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92ec3b70-35e3-43a3-bebd-fdb1c6c6ca59": {
+      "ProjectGuid": "92ec3b70-35e3-43a3-bebd-fdb1c6c6ca59",
+      "DisplayName": "Book Management System",
+      "ColorIndex": 0
+    },
+    "ca5e686a-c887-4c83-b305-b0a683353147": {
+      "ProjectGuid": "ca5e686a-c887-4c83-b305-b0a683353147",
+      "DisplayName": "Assignment5.4",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
